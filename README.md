@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-Hello there, soon I will graduate from Northcoders' 13 week Software Development bootcamp. It's been a blast. I am right in the middle of collaborating in a small group, on a busking musicians collaboration full-stack application, primarily using React Native, a front-end framework that is new to me.
+Hello there, I have just graduated from Northcoders' 13 week Software Development bootcamp. It's been a blast. I am right in the middle of collaborating in a small group, on a busking musicians collaboration full-stack application, primarily using React Native, a front-end framework that is new to me.
 
 I am an enthusiastic, creative and motivated worker with a strong people-focused approach. During my professional development at my previous role, I realised I had a passion for problem-solving which led me to coding. This led me to transition my career into the technological industry so that I could develop both professionally and personally, whilst contributing to development within the sector. Now I’m eager to kickstart my new career by actively looking for a role to that utilities my skill set.
 
