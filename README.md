@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-Hello, I'm Luke, I recently graduated from Northcoders' 13 week Software Development bootcamp specialising in JavaScript. It's been a blast, I learnt so much about creating Full Stack applications and realised the possibilities that the tech industry has to offer.
+Hello, I'm Luke. After completing my training at Northcoders, a Fullstack 13-week intensive JavaScript bootcamp, I was offered the role of Junior Software Engineer, They focus on Test-Driven development, relevant technologies, frameworks and best industry practices, and methodologies such as Paired Programming, SCRUM and Agile.
 
 I'm an enthusiastic, creative and motivated worker with a strong people-focused approach. During my professional development at Junior Jam, I realised I had a passion for problem-solving which led me to coding. I wanted to transition my career into the tech industry so that I could develop both professionally and personally, whilst contributing to development within the sector. Now I'm eager to kickstart my new career by actively looking for a role to that utilities my skill set.
 
